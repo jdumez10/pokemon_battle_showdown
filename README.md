@@ -75,8 +75,7 @@ The project is organized as follows:
     ├── utilities.py          # Helper functions for damage calculations, etc.
     ├── important.txt         # Additional references or constants
     │
-    ├── training_plots/       # Generated plots (losses, rewards, win rates)
-    │   ├── training_loss.png
+    ├── training_plots/       # Generated plots
     │   ├── training_rewards.png
     │   └── ...
     │
